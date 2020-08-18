@@ -1,4 +1,5 @@
 # learngram
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=gbodra_learngram&metric=alert_status)](https://sonarcloud.io/dashboard?id=gbodra_learngram)
 
 ## Project setup
 ```

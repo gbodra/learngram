@@ -24,5 +24,6 @@ pnpm-debug.log*
 
 # Firebase
 firebase.js
+.firebase
 
 *.code-workspace
